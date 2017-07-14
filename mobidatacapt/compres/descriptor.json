@@ -1,0 +1,24 @@
+{
+    "coffeecup_theme_manifest": {
+        "description": {
+            "creator": "CoffeeCup Software, Inc.",
+            "display_name": "Default",
+            "display_name_de": "",
+            "display_name_es": "Por Defecto",
+            "pub_date": "09-08-2011",
+            "theme_css": "theme/default/css/default.css",
+            "type": "standard",
+            "version": "0.1"
+        },
+        "plugins": {},
+        "preview": {
+            "main": "preview/main.png"
+        },
+        "target_application": {
+            "id": "WFB",
+            "maxVersion": "0.9",
+            "minVersion": "0.9",
+            "name": "Form Builder"
+        }
+    }
+}
